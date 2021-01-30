@@ -34,3 +34,4 @@ cal                //show full date
 
 cal +%d/%m/%y      //shows date in format
 
+cd ../                //go ine step back
