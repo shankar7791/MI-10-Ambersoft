@@ -16,7 +16,7 @@ list of Commands
 14. rm--> rm a.txt        | deletes a file
 15. cp--> cp              | copy the files to another directory
 16. rmdir-->  rmdir name  | removes the empty directories
-17. pwd-->    pwd         | prints the path of the current directory
+17. pwd-->    pwd         | prints the path of the current directory.
 18. banner--> banner name | prints the name in # 
 19. who-->    whoami      | tells the name of the user.
 
