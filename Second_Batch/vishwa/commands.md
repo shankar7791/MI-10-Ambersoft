@@ -46,4 +46,4 @@
 
 24. sudo : super user do/ run as administrator
 
-25. cd : chande the directories
+25. cd : change the directories
